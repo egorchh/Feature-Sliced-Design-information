@@ -12,9 +12,7 @@
 
 ## Презентация
 
-На выступлении немного стили поехали в некоторых местах, тут актуальные пропорции 
-
-[Преза](https://docs.google.com/presentation/d/1ElJs3pFH7hDMJDFYsEzsdoy3CeunJ_4DF19TIWJpXB0/edit#slide=id.g215a4acc924_1_72)
+[Презентация](https://docs.google.com/presentation/d/1ElJs3pFH7hDMJDFYsEzsdoy3CeunJ_4DF19TIWJpXB0/edit#slide=id.g215a4acc924_1_72)
 
 ## Материалы
 
